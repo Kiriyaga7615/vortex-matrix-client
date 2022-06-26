@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "matrix",
+  "version": "${version}",
+
+  "name": "MatrixClient",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Naturalism",
+    "EurekaEffect",
+    "Kiriyaga7615",
+    "Playboy_Panki"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/matrix/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cis.matrixclient.MatrixClient"
+    ]
+  },
+  "mixins": [
+    "matrix.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
