@@ -1,2 +1,2 @@
 not a skid, custom base, launch it from intellij
-https://media.discordapp.net/attachments/904748460065050685/985877588037754901/unknown.png?width=936&height=678
+![image](https://user-images.githubusercontent.com/81517221/175821686-7a8dd5a9-632c-4f5b-b3e3-c81aacfbe9ca.png)
